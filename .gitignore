@@ -2,6 +2,12 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+# 저작권 보호를 위해 Assets 폴더 전체 제외
+Assets/
+Assets.meta
+
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
